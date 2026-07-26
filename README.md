@@ -26,19 +26,19 @@ This analysis answers three questions:
 
 ### Executive Overview
 
-![Revenue Leakage Overview](dashboard1/screenshots1/revenue_overview.png)
+![Revenue Leakage Overview](dashboard1/screenshots/revenue_overview.png)
 
 ### Leakage concentration
 
-![How is Leakage concentrated](dashboard1/screenshots1/revenue_concentration.png)
+![How is Leakage concentrated](dashboard1/screenshots/revenue_concentration.png)
 
 ### Discount Impact
 
-![Discount Impact on Profitability](dashboard1/screenshots1/discount_impact.png)
+![Discount Impact on Profitability](dashboard1/screenshots/discount_impact.png)
 
 ### Refund Drivers
 
-![Refund Drivers](dashboard1/screenshots1/refund_drivers.png)
+![Refund Drivers](dashboard1/screenshots/refund_drivers.png)
 
 ### Actions and Estimated Impact
 
