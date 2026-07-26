@@ -42,7 +42,7 @@ This analysis answers three questions:
 
 ### Actions and Estimated Impact
 
-![Actions and Estimated Impact](dashboard1/screenshots1/actions_and_recommendations.png)
+![Actions and Estimated Impact](dashboard1/screenshots/actions_and_recommendations.png)
 
 ---
 
