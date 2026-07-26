@@ -6,11 +6,6 @@
 
 > For every $1 this company earns, it keeps only $0.825. This project finds the missing $0.175 — and maps a path to recovering $0.07 of it.
 
----
-
-## Dashboard Preview
-
-*Screenshots coming soon*
 
 ---
 
@@ -24,6 +19,30 @@ This analysis answers three questions:
 1. **How much** is the company losing and is it getting worse?
 2. **Where** is the leakage concentrated — which channels, regions, segments, and products?
 3. **What to do** — ranked recommendations with estimated dollar recovery
+
+---
+
+## Dashboard Preview
+
+### Executive Overview
+
+![Revenue Leakage Overview](dashboard/screenshots/revenue_overview.png)
+
+### Leakage concentration
+
+![How is Leakage concentrated](dashboard/screenshots/revenue_concentration.png)
+
+### Discount Impact
+
+![Discount Impact on Profitability](dashboard/screenshots/discount_impact.png)
+
+### Refund Drivers
+
+![Refund Drivers](dashboard/screenshots/refund_drivers.png)
+
+### Actions and Estimated Impact
+
+![Actions and Estimated Impact](dashboard/screenshots/actions_and_recommendations.png)
 
 ---
 
